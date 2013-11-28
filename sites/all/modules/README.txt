@@ -8,6 +8,6 @@ You can add any modules, and we encourage you to use drush to do this
 drush dl %module --uri=$myuri
 drush en %module --uri=$myuri
 
-Also, because this is NOT a vanilla install of Drupal, so please DO NOT use drush to update the
+Also, because this is NOT a vanilla install of Drupal, please DO NOT use drush to update the
 drupal core. Either, download pressflow from git @ git@github.com:pressflow/7.git OR, you can use
-our custom make files at: 
+our custom make files at: git@github.com:kirikintha/drupal_make.git
