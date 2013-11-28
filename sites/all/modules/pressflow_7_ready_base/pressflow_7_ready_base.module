@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Pressflow 7 Ready Base feature.
+ */
+
+include_once 'pressflow_7_ready_base.features.inc';
