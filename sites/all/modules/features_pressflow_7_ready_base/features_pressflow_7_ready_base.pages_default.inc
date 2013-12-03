@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * pressflow_7_ready_base.pages_default.inc
+ * features_pressflow_7_ready_base.pages_default.inc
  */
 
 /**
  * Implements hook_default_page_manager_pages().
  */
-function pressflow_7_ready_base_default_page_manager_pages() {
+function features_pressflow_7_ready_base_default_page_manager_pages() {
   $page = new stdClass();
   $page->disabled = FALSE; /* Edit this to true to make a default page disabled initially */
   $page->api_version = 1;

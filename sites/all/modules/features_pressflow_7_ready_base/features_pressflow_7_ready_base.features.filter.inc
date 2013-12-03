@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * pressflow_7_ready_base.features.filter.inc
+ * features_pressflow_7_ready_base.features.filter.inc
  */
 
 /**
  * Implements hook_filter_default_formats().
  */
-function pressflow_7_ready_base_filter_default_formats() {
+function features_pressflow_7_ready_base_filter_default_formats() {
   $formats = array();
 
   // Exported format: Plain text.

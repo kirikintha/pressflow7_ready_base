@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * pressflow_7_ready_base.features.menu_custom.inc
+ * features_pressflow_7_ready_base.features.menu_custom.inc
  */
 
 /**
  * Implements hook_menu_default_menu_custom().
  */
-function pressflow_7_ready_base_menu_default_menu_custom() {
+function features_pressflow_7_ready_base_menu_default_menu_custom() {
   $menus = array();
 
   // Exported menu: devel.

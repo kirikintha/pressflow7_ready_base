@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * pressflow_7_ready_base.features.user_permission.inc
+ * features_pressflow_7_ready_base.features.user_permission.inc
  */
 
 /**
  * Implements hook_user_default_permissions().
  */
-function pressflow_7_ready_base_user_default_permissions() {
+function features_pressflow_7_ready_base_user_default_permissions() {
   $permissions = array();
 
   // Exported permission: 'access administration menu'.
