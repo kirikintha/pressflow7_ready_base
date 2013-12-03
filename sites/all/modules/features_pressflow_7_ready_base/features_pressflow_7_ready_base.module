@@ -5,3 +5,6 @@
  */
 
 include_once 'features_pressflow_7_ready_base.features.inc';
+
+//Update exclude list for project.
+include_once('features_pressflow_7_ready_base.exclude_from_update_list.inc');
